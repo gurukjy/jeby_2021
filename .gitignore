@@ -558,6 +558,12 @@ FodyWeavers.xsd
 .idea/
 *.sln.iml
 
+#Django secret file
+secrets.json
+
+#<django project name>/staticfiles/
+# mysite/static/
+
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
